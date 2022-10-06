@@ -1,8 +1,4 @@
 
-## Live Link 👇
-
-https://zevi-assignment.netlify.app/
-
 
 # Shopping app with filters
 
